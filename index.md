@@ -4,7 +4,7 @@
 
 | Repository | Default Branch | Lint (default) | Render (all) |
 | --- | --- | --- | --- |
-| [nmos-edid-connection-management](https://github.com/AMWA-TV/nmos-edid-connection-management) | v1.0-dev | <a href="https://travis-ci.com/AMWA-TV/nmos-edid-connection-management?branch=v1.0-dev"><img src="https://travis-ci.com/AMWA-TV/nmos-edid-connection-management.svg?branch=v1.0-dev" width="100"/></a> | <a href="https://travis-ci.com/AMWA-TV/nmos-edid-connection-management?branch=gh-pages"><img src="https://travis-ci.com/AMWA-TV/nmos-edid-connection-management.svg?branch=gh-pages" width="100"/></a> |
+| [nmos-edid-connection-management](https://github.com/AMWA-TV/nmos-edid-connection-management) | v1.0-dev | <a href="https://github.com/AMWA-TV/nmos-edid-connection-management/actions?query=workflow%3ALint"><img src="https://github.com/AMWA-TV/nmos-edid-connection-management/workflows/Lint/badge.svg" width="100"/></a> | <a href="https://github.com/AMWA-TV/nmos-edid-connection-management/actions?query=workflow%3ARender"><img src="https://github.com/AMWA-TV/nmos-edid-connection-management/workflows/Render/badge.svg" width="100"/></a> |
 
 
 ---
